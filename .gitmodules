@@ -1,0 +1,9 @@
+[submodule "bachelor-ui"]
+	path = bachelor-ui
+	url = ./bachelor-ui/
+[submodule "bachelor-scraping"]
+	path = bachelor-scraping
+	url = ./bachelor-scraping/
+[submodule "bachelor-analysis"]
+	path = bachelor-analysis
+	url = ./bachelor-analysis/
