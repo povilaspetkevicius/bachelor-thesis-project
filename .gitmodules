@@ -7,3 +7,6 @@
 [submodule "bachelor-analysis"]
 	path = bachelor-analysis
 	url = "https://github.com/povilaspetkevicius/bachelor-api"
+[submodule "bachelor-data"]
+	path = bachelor-analysis-data
+	url = "https://github.com/povilaspetkevicius/bachelor-data"
